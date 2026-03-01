@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    font-size: 1.4rem;
+    border-collapse: collapse;
+    color: #3d3e3f;
+}
+
+th, td {
+    text-align: left;
+    padding: 1rem 0.1rem;
+    border-bottom: 0.05rem solid rgb(162, 162, 167);
+}
+
+table a:hover{
+    text-decoration: underline;
+}
